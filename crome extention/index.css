@@ -14,9 +14,17 @@ button{
     background-color: #5f9341;
     margin-top: 5px;
     padding: 4px 20px;
-    border: none;
+    border: 1px solid #5f9341;
     font-weight: bold;
     color: white;
+}
+#delete-btn{
+    background-color: white;
+    margin-top: 5px;
+    padding: 4px 20px;
+    border: 1px solid #5f9341;
+    font-weight: bold;
+    color: #5f9341;
 }
 ul{
     list-style: none;
